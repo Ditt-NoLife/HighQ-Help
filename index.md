@@ -3,7 +3,7 @@
 
 ## Music Commands
  
-  # - Play / P
+## - Play / P
   
   
  Play Music With TItle Music Or Youtube Link
@@ -13,11 +13,11 @@
  -p Toxic BoyWithUke\
  -p https://www.youtube.com/watch?v=xMHJGd3wwZk
  
- # - Clear-Queue / CQ
+## - Clear-Queue / CQ
  
  Clear All Music In The Queue
  
-# - Filter
+## - Filter
  
  Add Filter To Music
  
