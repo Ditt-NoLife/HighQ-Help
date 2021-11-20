@@ -27,20 +27,20 @@
  
   List Filter :
  
- 1 . 8D\
- 2.  HAAS\
- 3.  Pahser\
- 4.  treble\
- 5.  tremolo\
- 6.  vibrato\
- 7.  reverse\
- 8.  karaoke\
- 9.  flanger\
- 10.  mcompand\
- 11.  pulsator\
- 12.  subboost\
- 13.  bassboost\
- 14.  vaporwave\
- 15.  nightcore\
- 16.  normalizer\
- 17.  surrounding\
+ 1 . 8D
+ 2.  HAAS
+ 3.  Pahser
+ 4.  treble
+ 5.  tremolo
+ 6.  vibrato
+ 7.  reverse
+ 8.  karaoke
+ 9.  flanger
+ 10.  mcompand
+ 11.  pulsator
+ 12.  subboost
+ 13.  bassboost
+ 14.  vaporwave
+ 15.  nightcore
+ 16.  normalizer
+ 17.  surrounding
