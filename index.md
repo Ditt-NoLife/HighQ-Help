@@ -3,7 +3,9 @@
 
 ## Music Commands
  
- ## 1 . Play / P
+  # - Play / P
+  
+  
  Play Music With TItle Music Or Youtube Link
  
  Example :
@@ -11,11 +13,11 @@
  -p Toxic BoyWithUke\
  -p https://www.youtube.com/watch?v=xMHJGd3wwZk
  
- ## 2. Clear-Queue / CQ
+ # - Clear-Queue / CQ
  
  Clear All Music In The Queue
  
- ## 3. Filter
+# - Filter
  
  Add Filter To Music
  
@@ -23,7 +25,7 @@
  
  -filter 8D
  
- ## List Filter :
+  List Filter :
  
  1 . 8D\
  2.  HAAS\
